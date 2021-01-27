@@ -152,7 +152,7 @@ You will also likely want to change the dates over which to run:
 
 The configure script should then be linked to the expected name:
 
-    ln -sf config.sh.RRFS_dev2 config.sh
+    ln -sf config.sh.RRFS_dev2_retro config.sh
 
 
 #### Retro runs
