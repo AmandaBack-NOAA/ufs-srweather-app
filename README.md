@@ -135,7 +135,7 @@ Before running the RRFS_dev2 configuration, you will need to change your
 output directories by editing the config file:
 
     cd regional_workflow/ush
-    vi config.sh.RRFS_dev2
+    vi config.sh.RRFS_dev2_retro
 
 Inside the config file, ensure that you are point to your preferred user
 space for the following variables:
